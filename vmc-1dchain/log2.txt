@@ -1,0 +1,166 @@
+
+
+E=-1.244  steps=8000  L=16  N_up=1  run_time=79.0s  
+
+E=-1.388  steps=8000  L=16  N_up=1  run_time=85.1s  
+
+E=-1.046  steps=8000  L=16  N_up=2  run_time=73.2s  
+
+E=-1.044  steps=8000  L=16  N_up=2  run_time=75.1s  
+
+E=-1.173  steps=8000  L=16  N_up=3  run_time=75.9s  
+
+E=-1.160  steps=8000  L=16  N_up=3  run_time=73.2s  
+
+E=-1.105  steps=8000  L=16  N_up=4  run_time=72.6s  
+
+E=-1.087  steps=8000  L=16  N_up=4  run_time=74.2s  
+
+E=-1.024  steps=8000  L=16  N_up=5  run_time=72.7s  
+
+E=-1.180  steps=8000  L=16  N_up=5  run_time=73.6s  
+
+E=-1.212  steps=8000  L=16  N_up=6  run_time=72.7s  
+
+E=-1.257  steps=8000  L=16  N_up=6  run_time=70.4s  
+
+E=-1.274  steps=8000  L=16  N_up=7  run_time=72.8s  
+
+E=-1.269  steps=8000  L=16  N_up=7  run_time=72.7s  
+
+E=-1.360  steps=8000  L=16  N_up=8  run_time=74.8s  
+
+E=-1.360  steps=8000  L=16  N_up=8  run_time=74.4s  
+
+E=-1.257  steps=8000  L=16  N_up=9  run_time=71.8s  
+
+E=-1.245  steps=8000  L=16  N_up=9  run_time=72.4s  
+
+E=-1.156  steps=8000  L=16  N_up=10  run_time=69.9s  
+
+E=-1.140  steps=8000  L=16  N_up=10  run_time=71.1s  
+
+E=-1.114  steps=8000  L=16  N_up=11  run_time=71.2s  
+
+E=-1.081  steps=8000  L=16  N_up=11  run_time=71.2s  
+
+E=-0.953  steps=8000  L=16  N_up=12  run_time=69.7s  
+
+E=-0.968  steps=8000  L=16  N_up=12  run_time=71.1s  
+
+E=-0.908  steps=8000  L=16  N_up=13  run_time=70.7s  
+
+E=-1.001  steps=8000  L=16  N_up=13  run_time=70.4s  
+
+E=-0.781  steps=8000  L=16  N_up=14  run_time=72.1s  
+
+E=-0.761  steps=8000  L=16  N_up=14  run_time=73.1s  
+
+E=-0.942  steps=8000  L=16  N_up=15  run_time=86.6s  
+
+E=-0.923  steps=8000  L=16  N_up=15  run_time=90.1s  
+
+E=-1.371  steps=8000  L=32  N_up=16  run_time=596.1s  
+
+E=-1.380  steps=8000  L=32  N_up=16  run_time=602.8s  
+
+E=-1.197  steps=8000  L=7  N_up=1  run_time=12.7s  
+
+E=-1.055  steps=8000  L=7  N_up=2  run_time=12.2s  
+
+E=-1.233  steps=8000  L=7  N_up=3  run_time=12.0s  
+
+E=-0.916  steps=8000  L=8  N_up=1  run_time=16.0s  
+
+E=-1.001  steps=8000  L=8  N_up=2  run_time=15.3s  
+
+E=-1.065  steps=8000  L=8  N_up=3  run_time=15.1s  
+
+E=-1.194  steps=8000  L=8  N_up=4  run_time=14.8s  
+
+E=-0.946  steps=8000  L=8  N_up=5  run_time=14.9s  
+
+E=-0.722  steps=8000  L=8  N_up=6  run_time=15.0s  
+
+E=-0.252  steps=8000  L=8  N_up=7  run_time=15.0s  
+
+E=-1.488  steps=6  L=50  N_up=25  run_time=3.4s  
+
+E=-1.422  steps=6000  L=50  N_up=25  run_time=1762.1s  
+
+E=-1.347  steps=5000  L=16  N_up=8  run_time=38.5s  
+
+E=-1.350  steps=6000  L=16  N_up=8  run_time=47.9s  
+
+E=-9.657  steps=2000  L=8  N_up=4  run_time=22.7s  
+
+E=-2.960  steps=2000  L=8  N_up=1  run_time=11.1s  
+
+E=-2.926  steps=2000  L=8  N_up=1  run_time=10.8s  
+
+E=-5.275  steps=2000  L=8  N_up=2  run_time=14.7s  
+
+E=-7.642  steps=2000  L=8  N_up=3  run_time=20.6s  
+
+E=-9.656  steps=2000  L=8  N_up=4  run_time=24.1s  
+
+E=-6.454  steps=2000  L=8  N_up=5  run_time=18.4s  
+
+E=-3.639  steps=2000  L=8  N_up=6  run_time=11.2s  
+
+E=-0.571  steps=2000  L=8  N_up=7  run_time=5.4s  
+
+E=-2.974  steps=2000  L=7  N_up=1  run_time=9.1s  
+
+E=-5.855  steps=2000  L=7  N_up=2  run_time=12.4s  
+
+E=-8.104  steps=2000  L=7  N_up=3  run_time=15.8s  
+
+E=-8.543  steps=2000  L=7  N_up=4  run_time=19.7s  
+
+E=-2.271  steps=2000  L=7  N_up=6  run_time=8.1s  
+
+E=-5.279  steps=2000  L=7  N_up=5  run_time=13.7s  
+
+E=-3.384  steps=2000  L=6  N_up=1  run_time=7.3s  
+
+E=-5.751  steps=2000  L=6  N_up=2  run_time=10.6s  
+
+E=-8.000  steps=2000  L=6  N_up=3  run_time=14.4s  
+
+E=-5.261  steps=2000  L=6  N_up=4  run_time=10.3s  
+
+E=-2.386  steps=2000  L=6  N_up=5  run_time=6.1s  
+
+E=-3.513  steps=2000  L=4  N_up=2  run_time=3.9s  
+
+E=-3.000  steps=2000  L=4  N_up=1  run_time=5.1s  
+
+E=-2.000  steps=2000  L=4  N_up=3  run_time=3.4s  
+
+E=-3.000  steps=2000  L=3  N_up=1  run_time=3.5s  
+
+E=-3.000  steps=2000  L=3  N_up=2  run_time=3.2s  
+
+E=-25.464  steps=2000  L=20  N_up=10  run_time=587.2s  
+
+E=-38.267  steps=10  L=30  N_up=15  run_time=14.6s  
+
+E=-38.2671 E_site=-1.275570 steps=10  L=30  N_up=15  run_time=14.2s  
+
+E=-38.2671 E_site=-1.275570 steps=100  L=30  N_up=15  run_time=136.2s  
+
+E=-75.4749 E_site=-1.886871 steps=10  L=40  N_up=20  run_time=107.8s  
+
+E=-51.3331 E_site=-1.283327 steps=100  L=40  N_up=20  run_time=518.6s  
+
+E=-50.9150 E_site=-1.272876 steps=1000  L=40  N_up=20  run_time=5301.4s  
+
+E=-22.6038 E_site=-1.130191 steps=2000  L=20  N_up=10  run_time=496.9s  
+
+E=-22.4802 E_site=-1.124009 steps=2000  L=20  N_up=10  run_time=651.8s  
+
+E=-38.4661 E_site=-1.282203 steps=1000  L=30  N_up=15  run_time=1339.8s  
+
+E=-38.2671 E_site=-1.275570 steps=1000  L=30  N_up=15  run_time=1349.0s  
+

@@ -1,0 +1,24 @@
+E=-23.7908 E_site=-1.189542 steps=1000  L=20  N_up=10  run_time=160.3s  
+
+E=-20.1096 E_site=-1.256850 steps=1000  L=16  N_up=8  run_time=68.6s  
+
+E=-20.1094 E_site=-1.256835 steps=2000  L=16  N_up=8  run_time=138.0s  
+
+E=-20.1094 E_site=-1.256835 steps=5000  L=16  N_up=8  run_time=342.8s  
+
+E=-38.2684 E_site=-1.275612 steps=1000  L=30  N_up=15  run_time=839.0s  
+
+E=-45.7200 E_site=-1.270000 steps=1000  L=36  N_up=18  run_time=1666.4s  
+
+E=-30.3830 E_site=-1.265959 steps=6000  L=24  N_up=12  run_time=3644.0s  
+
+E=-30.3831 E_site=-1.265964 steps=6000  L=24  N_up=12  run_time=3645.9s  
+
+E=-45.7202 E_site=-1.270006 steps=6000  L=36  N_up=18  run_time=17445.0s  
+
+E=-45.7200 E_site=-1.270000 steps=6000  L=36  N_up=18  run_time=17531.4s  
+
+E=-50.8248 E_site=-1.270620 steps=6000  L=40  N_up=20  run_time=30917.7s  
+
+E=-50.8248 E_site=-1.270620 steps=6000  L=40  N_up=20  run_time=29343.1s  
+

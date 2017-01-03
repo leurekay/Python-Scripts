@@ -1,0 +1,68 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Sep 16 14:40:39 2016
+<E>=sum(E(conf)*exp(-E(conf)/k/T))/Z
+@author: aa
+"""
+from __future__ import division
+import random,math
+import numpy as np
+import matplotlib.pyplot as plt
+import pylab
+L=16
+
+low=1.7
+high=2.8
+T_list=np.arange(low,high,0.1)
+steps=6000*L**2
+
+        
+m_list=[]
+Cv_list=[]
+for T in T_list:
+    conf=np.random.choice((-1,1),(L,L))
+    M_total=0    
+    E2_total=0
+    E_total=0
+    Z=0
+    M=0
+    E=0
+    for i in range(L):
+        for j in range(L):
+            M=M+conf[i][j]
+            E=E-0.5*conf[i][j]*sum([conf[(i-1)%L][j],conf[(i+1)%L][j],conf[i][(j-1)%L],conf[i][(j+1)%L]])
+    rho=math.exp(E/T)
+    sample=0
+    for step in range(steps):    
+        s=[random.randrange(L),random.randrange(L)]
+        x,y=s
+        neighbour=[conf[(x-1)%L][y],conf[(x+1)%L][y],conf[x][(y-1)%L],conf[x][(y+1)%L]]
+        delta_E=2*conf[x][y]*sum(neighbour)
+        factor=min(1,math.exp(-delta_E/T))
+        if random.random() < factor:
+            conf[x][y]=-1*conf[x][y]
+            M=M+2*conf[x][y]
+            E=E+delta_E
+            rho=math.exp(-E/T)
+        if step>steps/2 and steps%(L**2)==0:
+            sample=sample+1
+            M_total=M_total+M*rho 
+            Z=Z+rho
+            E_total=E_total+E
+            E2_total=E2_total+E**2
+    m=M_total/Z/L**2
+    E_mean=E_total/sample
+    E2_mean=E2_total/sample
+    Cv=-(E2_mean-E_mean)/T**2/L**2
+    m_list.append(abs(m))  
+    Cv_list.append(Cv)
+    
+#plt.figure(figsize=(20,10))
+#plt.plot(T_list,m_list,color="blue",linewidth=1.5,label="mc")    
+#plt.savefig('L=%d'%L)
+pylab.title('$%i\\times%i$ lattice' % (L, L))
+pylab.xlabel('$T$', fontsize=16)
+pylab.ylabel('$<|M|>/N$', fontsize=16)
+pylab.plot(T_list, m_list, 'bo-', clip_on=False)
+pylab.ylim(0.0, 1.0)
+pylab.savefig('plot_local_av_magnetization_L%i.png' % L)

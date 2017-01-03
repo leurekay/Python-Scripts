@@ -1,0 +1,3 @@
+之前的Project中，每调用一次slater计算ratio,
+我都重新对角化了hamiltonian.效率极低。
+这里做改进

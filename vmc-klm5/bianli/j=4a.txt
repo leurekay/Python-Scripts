@@ -1,0 +1,1536 @@
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-1.750 E_cell2=-1.436 E_cell3=-2.924 E_cell=-6.110 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-1.000 E_cell2=-4.413 E_cell3=-0.929 E_cell=-6.342 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-1.750 E_cell2=-1.496 E_cell3=-3.278 E_cell=-6.524 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-1.750 E_cell2=-1.667 E_cell3=-1.591 E_cell=-5.008 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.508 E_cell3=-3.121 E_cell=-5.628 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.426 E_cell3=-5.140 E_cell=-7.565 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.453 E_cell3=-3.157 E_cell=-5.610 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-1.750 E_cell2=-1.581 E_cell3=-2.435 E_cell=-5.766 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-1.750 E_cell2=-1.381 E_cell3=-3.704 E_cell=-6.835 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.517 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.454 E_cell3=-3.943 E_cell=-6.396 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-1.500 E_cell2=-2.335 E_cell3=-3.535 E_cell=-7.369 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-0.750 E_cell2=-5.434 E_cell3=-1.119 E_cell=-7.303 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:16
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.500 E_cell2=-2.451 E_cell3=-1.387 E_cell=-5.338 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.367 E_cell3=-4.393 E_cell=-6.759 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.000 E_cell2=-4.391 E_cell3=-1.809 E_cell=-7.200 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.609 E_cell3=-2.023 E_cell=-5.382 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.921 E_cell3=-2.310 E_cell=-5.981 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.482 E_cell3=-3.531 E_cell=-6.013 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.494 E_cell3=-2.492 E_cell=-5.736 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.567 E_cell3=-3.081 E_cell=-5.648 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.290 E_cell3=-4.199 E_cell=-7.239 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.571 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.423 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.881 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.500 E_cell2=-2.479 E_cell3=-2.257 E_cell=-6.236 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.258 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.250 E_cell2=-3.349 E_cell3=-1.589 E_cell=-6.187 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.436 E_cell3=-2.924 E_cell=-6.110 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.582 E_cell3=-2.041 E_cell=-5.372 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.496 E_cell3=-2.885 E_cell=-6.130 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.500 E_cell2=-2.540 E_cell3=-2.217 E_cell=-6.257 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.258 E_cell=-4.881 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.500 E_cell2=-2.509 E_cell3=-2.238 E_cell=-6.247 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.500 E_cell2=-2.452 E_cell3=-1.387 E_cell=-5.338 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.258 E_cell=-4.881 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.500 E_cell2=-2.567 E_cell3=-1.806 E_cell=-5.873 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.494 E_cell3=-2.492 E_cell=-5.736 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.517 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.500 E_cell2=-2.538 E_cell3=-1.824 E_cell=-5.862 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-1.750 E_cell2=-1.522 E_cell3=-2.869 E_cell=-6.141 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:17
+
+E_cell1=-2.000 E_cell2=-0.451 E_cell3=-3.159 E_cell=-5.610 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.335 E_cell3=-3.534 E_cell=-7.368 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.567 E_cell3=-1.806 E_cell=-5.872 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.258 E_cell=-4.881 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.538 E_cell3=-1.824 E_cell=-5.862 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.750 E_cell2=-1.582 E_cell3=-2.041 E_cell=-5.372 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.625 E_cell3=-1.373 E_cell=-5.498 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.258 E_cell=-4.881 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.258 E_cell=-4.881 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.539 E_cell3=-3.493 E_cell=-6.032 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.482 E_cell3=-3.531 E_cell=-6.012 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.423 E_cell3=-3.570 E_cell=-5.992 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.810 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.426 E_cell3=-4.353 E_cell=-6.779 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.453 E_cell3=-3.157 E_cell=-5.610 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.750 E_cell2=-1.524 E_cell3=-2.473 E_cell=-5.747 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.250 E_cell2=-3.287 E_cell3=-2.149 E_cell=-6.686 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.540 E_cell3=-2.217 E_cell=-6.257 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.451 E_cell3=-1.387 E_cell=-5.338 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.364 E_cell3=-2.644 E_cell=-6.508 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.000 E_cell2=-4.578 E_cell3=-1.150 E_cell=-6.729 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.500 E_cell2=-2.567 E_cell3=-1.806 E_cell=-5.873 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.750 E_cell2=-1.438 E_cell3=-3.314 E_cell=-6.502 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.810 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-1.000 E_cell2=-4.356 E_cell3=-2.169 E_cell=-7.524 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.595 E_cell3=-2.670 E_cell=-5.265 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.366 E_cell3=-3.608 E_cell=-5.973 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.367 E_cell3=-4.393 E_cell=-6.760 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.454 E_cell3=-3.942 E_cell=-6.396 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:18
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.810 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.273 E_cell3=-2.290 E_cell=-6.063 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.250 E_cell2=-3.439 E_cell3=-2.435 E_cell=-7.124 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.451 E_cell3=-1.387 E_cell=-5.338 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.365 E_cell3=-2.644 E_cell=-6.508 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.481 E_cell3=-2.650 E_cell=-6.631 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.452 E_cell3=-3.063 E_cell=-7.014 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.000 E_cell2=-4.422 E_cell3=-2.586 E_cell=-8.009 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.750 E_cell2=-1.465 E_cell3=-2.470 E_cell=-5.686 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.750 E_cell2=-1.609 E_cell3=-2.024 E_cell=-5.383 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.423 E_cell3=-3.570 E_cell=-5.992 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.250 E_cell2=-3.402 E_cell3=-1.584 E_cell=-6.237 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.452 E_cell3=-3.063 E_cell=-7.014 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.397 E_cell3=-4.766 E_cell=-7.163 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.509 E_cell3=-2.238 E_cell=-6.248 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.363 E_cell3=-3.610 E_cell=-5.973 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.250 E_cell2=-3.532 E_cell3=-1.592 E_cell=-6.374 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.750 E_cell2=-1.229 E_cell3=-4.197 E_cell=-7.176 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.422 E_cell3=-2.687 E_cell=-6.608 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.595 E_cell3=-2.670 E_cell=-5.265 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.750 E_cell2=-1.407 E_cell3=-2.942 E_cell=-6.099 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.273 E_cell3=-2.290 E_cell=-6.063 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.454 E_cell3=-3.942 E_cell=-6.396 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.517 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.750 E_cell2=-1.412 E_cell3=-4.513 E_cell=-7.675 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.423 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.250 E_cell2=-3.435 E_cell3=-2.006 E_cell=-6.691 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.750 E_cell2=-1.609 E_cell3=-2.024 E_cell=-5.382 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.500 E_cell2=-2.512 E_cell3=-2.237 E_cell=-6.249 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:19
+
+E_cell1=-1.750 E_cell2=-1.609 E_cell3=-2.024 E_cell=-5.383 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.250 E_cell2=-3.405 E_cell3=-2.016 E_cell=-6.671 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.482 E_cell3=-3.530 E_cell=-6.012 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.496 E_cell3=-2.884 E_cell=-6.130 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.250 E_cell2=-3.373 E_cell3=-2.438 E_cell=-7.061 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.437 E_cell3=-3.318 E_cell=-6.505 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.810 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.364 E_cell3=-2.644 E_cell=-6.508 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.451 E_cell3=-1.387 E_cell=-5.338 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.392 E_cell3=-2.233 E_cell=-6.125 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.260 E_cell3=-4.220 E_cell=-7.230 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.609 E_cell3=-2.024 E_cell=-5.383 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.407 E_cell3=-2.498 E_cell=-5.656 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.425 E_cell3=-3.569 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.273 E_cell3=-2.290 E_cell=-6.063 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.575 E_cell3=-1.811 E_cell=-5.886 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-3.024 E_cell3=-1.210 E_cell=-5.734 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.451 E_cell3=-2.668 E_cell=-6.619 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.523 E_cell3=-2.473 E_cell=-5.747 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.580 E_cell3=-2.042 E_cell=-5.372 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.392 E_cell3=-2.233 E_cell=-6.125 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.250 E_cell2=-3.584 E_cell3=-1.152 E_cell=-5.986 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.454 E_cell3=-3.942 E_cell=-6.396 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.538 E_cell3=-1.825 E_cell=-5.863 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.422 E_cell3=-3.083 E_cell=-7.005 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.407 E_cell3=-2.942 E_cell=-6.099 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.392 E_cell3=-2.233 E_cell=-6.125 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.250 E_cell2=-3.519 E_cell3=-1.151 E_cell=-5.921 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.609 E_cell3=-2.024 E_cell=-5.383 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.750 E_cell2=-1.554 E_cell3=-2.452 E_cell=-5.756 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.364 E_cell3=-4.394 E_cell=-6.758 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-1.500 E_cell2=-2.364 E_cell3=-2.655 E_cell=-6.519 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:20
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.500 E_cell2=-2.364 E_cell3=-2.644 E_cell=-6.508 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.582 E_cell3=-2.041 E_cell=-5.373 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.482 E_cell3=-3.531 E_cell=-6.013 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.335 E_cell3=-4.021 E_cell=-6.356 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.394 E_cell3=-3.981 E_cell=-6.376 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.500 E_cell2=-2.567 E_cell3=-1.806 E_cell=-5.874 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.392 E_cell3=-3.983 E_cell=-6.375 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.307 E_cell3=-4.432 E_cell=-6.739 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.580 E_cell3=-2.042 E_cell=-5.372 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.409 E_cell3=-3.336 E_cell=-6.495 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.500 E_cell2=-2.480 E_cell3=-2.652 E_cell=-6.631 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.580 E_cell3=-1.598 E_cell=-4.928 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.508 E_cell3=-3.121 E_cell=-5.628 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.536 E_cell3=-2.710 E_cell=-5.245 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.446 E_cell3=-3.162 E_cell=-5.608 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.500 E_cell2=-2.479 E_cell3=-2.257 E_cell=-6.236 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.523 E_cell3=-2.473 E_cell=-5.747 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.409 E_cell3=-3.729 E_cell=-6.888 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.363 E_cell3=-3.610 E_cell=-5.973 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.377 E_cell3=-2.910 E_cell=-6.038 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.394 E_cell3=-3.982 E_cell=-6.376 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.000 E_cell2=-4.424 E_cell3=-2.189 E_cell=-7.613 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.000 E_cell2=-4.453 E_cell3=-2.399 E_cell=-7.852 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.453 E_cell3=-3.157 E_cell=-5.610 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-2.000 E_cell2=-0.276 E_cell3=-4.060 E_cell=-6.336 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:21
+
+E_cell1=-1.750 E_cell2=-1.582 E_cell3=-2.041 E_cell=-5.373 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.595 E_cell3=-2.670 E_cell=-5.265 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.395 E_cell3=-3.981 E_cell=-6.376 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.426 E_cell3=-4.353 E_cell=-6.779 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-1.750 E_cell2=-1.524 E_cell3=-2.473 E_cell=-5.747 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.595 E_cell3=-2.670 E_cell=-5.265 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.453 E_cell3=-3.157 E_cell=-5.610 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.422 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.423 E_cell3=-3.570 E_cell=-5.993 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-1.500 E_cell2=-2.363 E_cell3=-2.655 E_cell=-6.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.395 E_cell3=-3.981 E_cell=-6.376 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.456 E_cell3=-4.727 E_cell=-7.183 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-1.750 E_cell2=-1.580 E_cell3=-2.042 E_cell=-5.372 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.595 E_cell3=-2.670 E_cell=-5.265 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-1.000 E_cell2=-4.325 E_cell3=-2.992 E_cell=-8.317 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.536 E_cell3=-2.710 E_cell=-5.245 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-1.500 E_cell2=-2.625 E_cell3=-1.374 E_cell=-5.499 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.536 E_cell3=-2.710 E_cell=-5.245 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.335 E_cell3=-4.021 E_cell=-6.356 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.305 E_cell3=-4.434 E_cell=-6.739 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.454 E_cell3=-3.942 E_cell=-6.396 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:22
+
+E_cell1=-2.000 E_cell2=-0.538 E_cell3=-2.708 E_cell=-5.246 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-0.623 E_cell3=-2.259 E_cell=-4.882 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-0.454 E_cell3=-3.942 E_cell=-6.396 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-0.708 E_cell3=-1.809 E_cell=-4.518 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-1.500 E_cell2=-2.422 E_cell3=-1.810 E_cell=-5.732 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-1.500 E_cell2=-2.479 E_cell3=-2.257 E_cell=-6.236 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-0.510 E_cell3=-3.119 E_cell=-5.629 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-1.500 E_cell2=-2.625 E_cell3=-1.374 E_cell=-5.499 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-0.450 E_cell3=-3.159 E_cell=-5.609 Nstep=2  L=2  j=4.00  mc=0.66  md=0.72  v=1.84  run_time=0.0s  2016-11-13 21:38:23
+
+E_cell1=-2.000 E_cell2=-1.215 E_cell3=-2.047 E_cell=-5.262 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:42
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.251 E_cell=-4.738 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:42
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.095 E_cell=-4.703 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:42
+
+E_cell1=-1.750 E_cell2=-1.627 E_cell3=-1.838 E_cell=-5.215 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:42
+
+E_cell1=-0.500 E_cell2=-3.699 E_cell3=-0.540 E_cell=-4.739 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:42
+
+E_cell1=-1.000 E_cell2=-2.727 E_cell3=-1.534 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:42
+
+E_cell1=-1.500 E_cell2=-1.903 E_cell3=-2.251 E_cell=-5.653 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.000 E_cell2=-2.849 E_cell3=-1.308 E_cell=-5.156 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.301 E_cell3=-2.055 E_cell=-5.606 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.247 E_cell3=-2.200 E_cell=-5.696 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.511 E_cell3=-2.426 E_cell=-5.687 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.585 E_cell3=-1.891 E_cell=-5.225 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.552 E_cell3=-2.374 E_cell=-5.677 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-0.250 E_cell2=-4.046 E_cell3=-0.407 E_cell=-4.703 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.572 E_cell3=-1.904 E_cell=-5.226 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.315 E_cell3=-1.569 E_cell=-5.134 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-2.000 E_cell2=-0.900 E_cell3=-3.340 E_cell=-6.240 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.500 E_cell2=-1.943 E_cell3=-1.747 E_cell=-5.191 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.301 E_cell3=-2.144 E_cell=-5.695 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.047 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-0.750 E_cell2=-2.960 E_cell3=-2.480 E_cell=-6.190 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.840 E_cell3=-0.948 E_cell=-5.037 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-0.500 E_cell2=-3.674 E_cell3=-0.584 E_cell=-4.758 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.500 E_cell2=-1.828 E_cell3=-2.341 E_cell=-5.669 Nstep=2  L=2  j=4.00  mc=0.72  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.500 E_cell2=-1.931 E_cell3=-1.937 E_cell=-5.368 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-0.929 E_cell=-4.658 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.475 E_cell3=-2.477 E_cell=-5.702 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-0.500 E_cell2=-3.430 E_cell3=-2.220 E_cell=-6.150 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-2.000 E_cell2=-1.062 E_cell3=-2.687 E_cell=-5.749 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-2.000 E_cell2=-0.988 E_cell3=-3.223 E_cell=-6.211 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.860 E_cell3=-0.724 E_cell=-4.834 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.585 E_cell3=-1.890 E_cell=-5.225 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.422 E_cell3=-1.491 E_cell=-5.164 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.500 E_cell2=-1.923 E_cell3=-2.217 E_cell=-5.641 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.500 E_cell2=-1.888 E_cell3=-2.268 E_cell=-5.656 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.490 E_cell3=-2.447 E_cell=-5.687 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-0.915 E_cell=-4.644 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.250 E_cell=-4.737 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.094 E_cell=-4.702 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.250 E_cell2=-2.369 E_cell3=-1.558 E_cell=-5.176 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.171 E_cell=-4.779 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.250 E_cell=-4.737 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:43
+
+E_cell1=-2.000 E_cell2=-1.366 E_cell3=-1.407 E_cell=-4.773 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.157 E_cell3=-4.209 E_cell=-7.116 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.250 E_cell2=-1.960 E_cell3=-3.303 E_cell=-6.513 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.250 E_cell2=-2.480 E_cell3=-0.929 E_cell=-4.659 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-2.000 E_cell2=-0.899 E_cell3=-3.340 E_cell=-6.238 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.628 E_cell3=-1.837 E_cell=-5.215 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.250 E_cell=-4.738 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.252 E_cell3=-4.086 E_cell=-7.089 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-0.750 E_cell2=-3.153 E_cell3=-1.261 E_cell=-5.164 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.093 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.500 E_cell2=-1.779 E_cell3=-2.400 E_cell=-5.679 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-2.000 E_cell2=-1.366 E_cell3=-1.407 E_cell=-4.773 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-2.000 E_cell2=-0.988 E_cell3=-3.222 E_cell=-6.210 Nstep=2  L=2  j=4.00  mc=0.73  md=0.18  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-2.000 E_cell2=-1.066 E_cell3=-3.121 E_cell=-6.187 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-2.000 E_cell2=-0.842 E_cell3=-4.297 E_cell=-7.139 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.000 E_cell2=-3.029 E_cell3=-1.357 E_cell=-5.386 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.500 E_cell2=-1.793 E_cell3=-2.837 E_cell=-6.130 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-2.000 E_cell2=-0.918 E_cell3=-3.319 E_cell=-6.237 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-0.750 E_cell2=-3.457 E_cell3=-1.761 E_cell=-5.968 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-0.750 E_cell2=-3.070 E_cell3=-1.880 E_cell=-5.701 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.331 E_cell3=-3.108 E_cell=-6.189 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.500 E_cell2=-1.998 E_cell3=-1.681 E_cell=-5.179 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.511 E_cell3=-3.087 E_cell=-6.349 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.000 E_cell2=-2.824 E_cell3=-0.862 E_cell=-4.686 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.000 E_cell2=-2.465 E_cell3=-3.222 E_cell=-6.687 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.475 E_cell3=-2.478 E_cell=-5.703 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.500 E_cell2=-2.269 E_cell3=-2.320 E_cell=-6.089 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-0.750 E_cell2=-3.063 E_cell3=-2.351 E_cell=-6.164 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.094 E_cell=-4.702 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-2.000 E_cell2=-0.915 E_cell3=-3.760 E_cell=-6.675 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:44
+
+E_cell1=-1.750 E_cell2=-1.422 E_cell3=-2.544 E_cell=-5.716 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.000 E_cell2=-3.352 E_cell3=-1.204 E_cell=-5.555 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-2.791 E_cell=-6.303 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.046 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-1.014 E_cell=-4.743 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.049 E_cell3=-4.804 E_cell=-7.603 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.627 E_cell3=-1.837 E_cell=-5.214 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.331 E_cell3=-3.110 E_cell=-6.191 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.500 E_cell2=-1.813 E_cell3=-2.805 E_cell=-6.119 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.051 E_cell3=-2.700 E_cell=-5.752 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.047 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.401 E_cell3=-3.014 E_cell=-6.166 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.258 E_cell3=-2.145 E_cell=-5.653 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.096 E_cell3=-4.739 E_cell=-7.585 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.046 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.000 E_cell2=-2.616 E_cell3=-1.978 E_cell=-5.594 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-0.915 E_cell=-4.644 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.366 E_cell3=-1.406 E_cell=-4.772 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-1.015 E_cell=-4.744 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.369 E_cell3=-1.602 E_cell=-5.221 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.826 E_cell3=-0.936 E_cell=-5.012 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.369 E_cell3=-1.602 E_cell=-5.221 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-0.988 E_cell3=-3.223 E_cell=-6.211 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-0.500 E_cell2=-3.483 E_cell3=-1.880 E_cell=-5.864 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.000 E_cell2=-3.295 E_cell3=-0.660 E_cell=-4.955 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.140 E_cell3=-2.583 E_cell=-5.723 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-0.750 E_cell2=-3.383 E_cell3=-0.534 E_cell=-4.666 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.215 E_cell3=-2.046 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.585 E_cell3=-1.890 E_cell=-5.225 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.250 E_cell=-4.737 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.092 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-0.900 E_cell3=-3.341 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.500 E_cell2=-2.173 E_cell3=-2.351 E_cell=-6.024 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.500 E_cell2=-2.082 E_cell3=-1.108 E_cell=-4.690 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.250 E_cell2=-2.258 E_cell3=-2.146 E_cell=-5.654 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.750 E_cell2=-1.475 E_cell3=-2.478 E_cell=-5.703 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-1.366 E_cell3=-1.406 E_cell=-4.772 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.085 E_cell=-4.693 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:45
+
+E_cell1=-2.000 E_cell2=-0.918 E_cell3=-3.319 E_cell=-6.237 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-1.215 E_cell3=-2.046 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.360 E_cell3=-3.071 E_cell=-6.181 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-2.313 E_cell3=-1.017 E_cell=-4.830 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.000 E_cell2=-2.782 E_cell3=-1.478 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.046 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.671 E_cell3=-2.437 E_cell=-5.858 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-1.215 E_cell3=-2.046 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.250 E_cell2=-2.343 E_cell3=-1.539 E_cell=-5.132 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.093 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-1.051 E_cell3=-2.700 E_cell=-5.751 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.312 E_cell3=-3.132 E_cell=-6.195 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.093 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.000 E_cell2=-3.218 E_cell3=-1.281 E_cell=-5.498 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.093 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.73  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.000 E_cell2=-3.258 E_cell3=-0.753 E_cell=-5.011 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-1.367 E_cell3=-1.405 E_cell=-4.772 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-0.914 E_cell3=-3.761 E_cell=-6.676 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-1.888 E_cell3=-2.268 E_cell=-5.656 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.276 E_cell3=-3.176 E_cell=-6.202 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-0.989 E_cell3=-3.223 E_cell=-6.212 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-0.900 E_cell3=-3.341 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.046 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.475 E_cell3=-2.478 E_cell=-5.703 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-2.155 E_cell3=-3.353 E_cell=-7.008 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.305 E_cell3=-3.139 E_cell=-6.194 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.475 E_cell3=-2.478 E_cell=-5.703 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.250 E_cell2=-2.843 E_cell3=-0.933 E_cell=-5.026 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.750 E_cell2=-1.312 E_cell3=-3.132 E_cell=-6.195 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-1.833 E_cell3=-2.335 E_cell=-5.668 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.500 E_cell2=-1.998 E_cell3=-1.681 E_cell=-5.179 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.000 E_cell2=-2.659 E_cell3=-2.076 E_cell=-5.735 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-2.000 E_cell2=-1.215 E_cell3=-2.046 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-0.928 E_cell=-4.658 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-0.750 E_cell2=-3.601 E_cell3=-0.692 E_cell=-5.044 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-0.750 E_cell2=-3.274 E_cell3=-0.837 E_cell=-4.861 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.250 E_cell2=-2.494 E_cell3=-2.099 E_cell=-5.843 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:46
+
+E_cell1=-1.250 E_cell2=-2.314 E_cell3=-1.668 E_cell=-5.233 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.737 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-0.596 E_cell3=-5.062 E_cell=-7.658 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-1.943 E_cell3=-1.747 E_cell=-5.190 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.301 E_cell3=-1.658 E_cell=-5.209 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.423 E_cell3=-1.491 E_cell=-5.164 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-0.750 E_cell2=-3.335 E_cell3=-1.648 E_cell=-5.733 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.826 E_cell3=-0.939 E_cell=-5.015 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.046 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-0.750 E_cell2=-3.098 E_cell3=-1.728 E_cell=-5.575 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-1.367 E_cell3=-1.405 E_cell=-4.772 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.093 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.175 E_cell3=-2.737 E_cell=-6.162 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-2.252 E_cell3=-1.779 E_cell=-5.530 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-1.063 E_cell3=-2.687 E_cell=-5.749 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-1.998 E_cell3=-1.681 E_cell=-5.179 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-0.915 E_cell=-4.644 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-1.883 E_cell3=-2.275 E_cell=-5.657 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-0.826 E_cell3=-3.878 E_cell=-6.704 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-2.085 E_cell3=-2.647 E_cell=-6.232 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-2.190 E_cell3=-2.374 E_cell=-6.064 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-1.998 E_cell3=-1.680 E_cell=-5.179 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.750 E_cell2=-1.258 E_cell3=-3.198 E_cell=-6.206 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-1.366 E_cell3=-1.405 E_cell=-4.772 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.755 E_cell3=-1.503 E_cell=-5.508 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.178 E_cell3=-2.743 E_cell=-6.171 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-1.063 E_cell3=-2.687 E_cell=-5.749 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.250 E_cell2=-2.214 E_cell3=-2.584 E_cell=-6.048 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.750 E_cell2=-1.422 E_cell3=-2.544 E_cell=-5.717 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-1.063 E_cell3=-2.687 E_cell=-5.750 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-0.900 E_cell3=-3.341 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-0.989 E_cell3=-3.223 E_cell=-6.212 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-2.046 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-1.500 E_cell2=-2.356 E_cell3=-1.677 E_cell=-5.533 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:47
+
+E_cell1=-2.000 E_cell2=-0.900 E_cell3=-3.341 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.250 E_cell2=-2.206 E_cell3=-2.814 E_cell=-6.270 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.250 E_cell2=-2.206 E_cell3=-2.715 E_cell=-6.171 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-1.828 E_cell3=-2.342 E_cell=-5.670 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-1.063 E_cell3=-2.687 E_cell=-5.749 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-2.356 E_cell3=-1.678 E_cell=-5.533 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.750 E_cell2=-1.327 E_cell3=-3.552 E_cell=-6.629 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-1.998 E_cell3=-1.680 E_cell=-5.179 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.000 E_cell2=-2.793 E_cell3=-1.410 E_cell=-5.204 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-0.900 E_cell3=-3.341 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-1.215 E_cell3=-2.046 E_cell=-5.261 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-1.663 E_cell3=-2.996 E_cell=-6.159 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-2.042 E_cell3=-2.318 E_cell=-5.860 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.250 E_cell2=-2.423 E_cell3=-1.491 E_cell=-5.164 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.250 E_cell2=-2.479 E_cell3=-0.928 E_cell=-4.657 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-2.016 E_cell3=-2.352 E_cell=-5.868 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-1.063 E_cell3=-2.687 E_cell=-5.750 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.750 E_cell2=-0.990 E_cell3=-4.879 E_cell=-7.619 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-1.063 E_cell3=-2.687 E_cell=-5.749 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.092 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-0.751 E_cell3=-4.417 E_cell=-7.168 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.000 E_cell2=-3.251 E_cell3=-0.779 E_cell=-5.030 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-1.813 E_cell3=-2.806 E_cell=-6.119 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-2.108 E_cell3=-1.092 E_cell=-4.701 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-0.750 E_cell2=-3.274 E_cell3=-0.837 E_cell=-4.861 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-0.750 E_cell2=-3.274 E_cell3=-0.943 E_cell=-4.967 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-0.750 E_cell2=-3.017 E_cell3=-2.867 E_cell=-6.634 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.750 E_cell2=-1.627 E_cell3=-1.837 E_cell=-5.214 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.250 E_cell2=-2.826 E_cell3=-0.939 E_cell=-5.015 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.500 E_cell2=-1.622 E_cell3=-3.501 E_cell=-6.623 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-1.367 E_cell3=-1.405 E_cell=-4.771 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.250 E_cell2=-2.021 E_cell3=-3.719 E_cell=-6.990 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-2.000 E_cell2=-1.367 E_cell3=-1.405 E_cell=-4.772 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.250 E_cell2=-2.254 E_cell3=-2.662 E_cell=-6.166 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.750 E_cell2=-1.585 E_cell3=-1.890 E_cell=-5.225 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:48
+
+E_cell1=-1.750 E_cell2=-1.183 E_cell3=-3.742 E_cell=-6.675 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.740 E_cell3=-3.429 E_cell=-6.669 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.813 E_cell3=-2.806 E_cell=-6.119 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.250 E_cell2=-2.203 E_cell3=-2.212 E_cell=-5.665 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.888 E_cell3=-2.268 E_cell=-5.657 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.000 E_cell2=-2.835 E_cell3=-1.281 E_cell=-5.116 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-2.000 E_cell2=-1.063 E_cell3=-2.687 E_cell=-5.750 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.000 E_cell2=-2.797 E_cell3=-0.810 E_cell=-4.607 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-2.000 E_cell2=-0.989 E_cell3=-3.224 E_cell=-6.212 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.943 E_cell3=-1.747 E_cell=-5.190 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.750 E_cell2=-1.627 E_cell3=-1.837 E_cell=-5.214 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.998 E_cell3=-1.680 E_cell=-5.179 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.250 E_cell2=-2.411 E_cell3=-1.656 E_cell=-5.317 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.250 E_cell2=-2.485 E_cell3=-2.489 E_cell=-6.224 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.750 E_cell2=-1.421 E_cell3=-2.544 E_cell=-5.715 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-2.000 E_cell2=-1.215 E_cell3=-2.046 E_cell=-5.260 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-2.000 E_cell2=-0.994 E_cell3=-3.657 E_cell=-6.651 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.000 E_cell2=-2.710 E_cell3=-1.929 E_cell=-5.639 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.817 E_cell3=-2.806 E_cell=-6.123 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.250 E_cell2=-2.339 E_cell3=-2.003 E_cell=-5.592 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.888 E_cell3=-2.268 E_cell=-5.657 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.852 E_cell3=-2.756 E_cell=-6.108 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.250 E_cell2=-2.410 E_cell3=-2.614 E_cell=-6.275 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.813 E_cell3=-2.806 E_cell=-6.119 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.750 E_cell2=-1.737 E_cell3=-1.249 E_cell=-4.736 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.500 E_cell2=-1.943 E_cell3=-1.747 E_cell=-5.190 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.750 E_cell2=-1.671 E_cell3=-2.437 E_cell=-5.858 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-0.750 E_cell2=-4.270 E_cell3=-1.487 E_cell=-6.507 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-0.750 E_cell2=-3.328 E_cell3=-0.630 E_cell=-4.708 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.750 E_cell2=-1.674 E_cell3=-2.464 E_cell=-5.888 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.250 E_cell2=-2.117 E_cell3=-4.095 E_cell=-7.462 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.05  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.000 E_cell2=-2.797 E_cell3=-0.810 E_cell=-4.607 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-2.000 E_cell2=-0.751 E_cell3=-4.416 E_cell=-7.168 Nstep=2  L=2  j=4.00  mc=0.72  md=0.19  v=1.06  run_time=0.0s  2016-11-13 21:42:49
+
+E_cell1=-1.250 E_cell2=-2.339 E_cell3=-1.552 E_cell=-5.141 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.597 E_cell=-4.312 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=0.000 E_cell2=-3.945 E_cell3=-0.277 E_cell=-4.221 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.675 E_cell=-5.186 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.720 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.720 E_cell=-4.359 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.000 E_cell2=-2.861 E_cell3=-0.616 E_cell=-4.477 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.675 E_cell=-5.186 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.917 E_cell=-4.484 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.750 E_cell2=-1.726 E_cell3=-1.774 E_cell=-5.250 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-0.750 E_cell2=-3.319 E_cell3=-0.399 E_cell=-4.468 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.750 E_cell2=-1.852 E_cell3=-0.821 E_cell=-4.423 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.250 E_cell2=-2.279 E_cell3=-1.673 E_cell=-5.202 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-2.000 E_cell2=-1.397 E_cell3=-1.964 E_cell=-5.361 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.000 E_cell2=-2.711 E_cell3=-0.566 E_cell=-4.277 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.250 E_cell2=-2.167 E_cell3=-3.595 E_cell=-7.012 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.422 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.675 E_cell=-5.187 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-0.250 E_cell2=-3.698 E_cell3=-1.240 E_cell=-5.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.500 E_cell2=-2.138 E_cell3=-0.722 E_cell=-4.361 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.676 E_cell=-5.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:48
+
+E_cell1=-1.250 E_cell2=-2.370 E_cell3=-2.429 E_cell=-6.049 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-2.000 E_cell2=-1.566 E_cell3=-0.919 E_cell=-4.485 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-2.138 E_cell3=-0.722 E_cell=-4.360 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.609 E_cell=-4.360 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.129 E_cell3=-3.358 E_cell=-6.737 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.542 E_cell=-4.295 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-2.000 E_cell2=-1.396 E_cell3=-1.964 E_cell=-5.360 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-2.000 E_cell2=-1.229 E_cell3=-3.012 E_cell=-6.242 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.164 E_cell3=-2.541 E_cell=-5.955 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.616 E_cell=-4.291 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-1.951 E_cell3=-1.797 E_cell=-5.249 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.750 E_cell2=-1.497 E_cell3=-2.945 E_cell=-6.192 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.614 E_cell=-4.365 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.153 E_cell3=-2.605 E_cell=-6.009 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-2.117 E_cell3=-2.571 E_cell=-6.187 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-0.500 E_cell2=-3.254 E_cell3=-0.351 E_cell=-4.105 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.711 E_cell3=-0.620 E_cell=-4.330 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-0.750 E_cell2=-3.322 E_cell3=-0.571 E_cell=-4.644 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-2.000 E_cell2=-1.397 E_cell3=-1.964 E_cell=-5.360 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.778 E_cell3=-2.399 E_cell=-6.177 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-1.765 E_cell3=-2.877 E_cell=-6.141 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.597 E_cell=-4.313 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.456 E_cell3=-3.224 E_cell=-6.680 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-0.750 E_cell2=-3.079 E_cell3=-0.370 E_cell=-4.198 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.676 E_cell=-5.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-0.750 E_cell2=-3.188 E_cell3=-0.376 E_cell=-4.314 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.588 E_cell3=-1.533 E_cell=-5.371 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.676 E_cell=-5.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.750 E_cell2=-1.666 E_cell3=-1.897 E_cell=-5.313 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.881 E_cell3=-2.958 E_cell=-6.839 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.672 E_cell=-4.347 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-2.000 E_cell2=-1.145 E_cell3=-3.868 E_cell=-7.013 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.738 E_cell=-4.412 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-2.000 E_cell2=-1.566 E_cell3=-0.919 E_cell=-4.485 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.000 E_cell2=-2.337 E_cell3=-3.343 E_cell=-6.680 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-1.801 E_cell3=-3.494 E_cell=-6.795 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-2.000 E_cell2=-1.398 E_cell3=-1.964 E_cell=-5.362 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.500 E_cell2=-2.138 E_cell3=-0.721 E_cell=-4.359 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.250 E_cell2=-2.238 E_cell3=-1.747 E_cell=-5.235 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:49
+
+E_cell1=-1.750 E_cell2=-1.497 E_cell3=-2.946 E_cell=-6.193 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.503 E_cell3=-2.449 E_cell=-6.202 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.675 E_cell=-5.187 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-1.880 E_cell3=-3.009 E_cell=-6.389 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-1.934 E_cell3=-4.404 E_cell=-7.587 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.750 E_cell2=-1.497 E_cell3=-2.946 E_cell=-6.193 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-2.000 E_cell2=-1.398 E_cell3=-1.964 E_cell=-5.362 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.596 E_cell=-4.312 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-0.750 E_cell2=-2.832 E_cell3=-1.662 E_cell=-5.244 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.669 E_cell=-4.344 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.390 E_cell3=-0.642 E_cell=-4.282 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.491 E_cell=-4.243 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-2.000 E_cell2=-1.398 E_cell3=-1.965 E_cell=-5.363 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.595 E_cell=-4.311 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.261 E_cell3=-3.340 E_cell=-6.851 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.720 E_cell=-4.359 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.750 E_cell2=-1.726 E_cell3=-1.775 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.646 E_cell3=-0.485 E_cell=-4.381 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-0.750 E_cell2=-3.038 E_cell3=-0.504 E_cell=-4.292 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.615 E_cell=-4.290 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.357 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.322 E_cell3=-3.302 E_cell=-6.874 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-0.750 E_cell2=-3.079 E_cell3=-0.489 E_cell=-4.318 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.720 E_cell=-4.359 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.011 E_cell3=-1.742 E_cell=-5.253 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-1.854 E_cell3=-2.675 E_cell=-6.029 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.720 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.339 E_cell3=-1.552 E_cell=-5.141 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-2.000 E_cell2=-0.843 E_cell3=-5.217 E_cell=-8.060 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.153 E_cell3=-2.610 E_cell=-6.013 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.676 E_cell=-5.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.628 E_cell=-4.303 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.000 E_cell2=-2.975 E_cell3=-0.511 E_cell=-4.486 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-1.875 E_cell3=-2.786 E_cell=-6.161 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-1.885 E_cell3=-2.632 E_cell=-6.018 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.720 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.750 E_cell2=-1.684 E_cell3=-1.866 E_cell=-5.300 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.595 E_cell=-4.311 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:50
+
+E_cell1=-0.750 E_cell2=-2.893 E_cell3=-1.468 E_cell=-5.111 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.542 E_cell=-4.294 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.357 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.265 E_cell3=-3.394 E_cell=-6.909 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.000 E_cell2=-2.542 E_cell3=-2.255 E_cell=-5.796 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.596 E_cell=-4.312 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.718 E_cell=-4.357 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.000 E_cell2=-2.225 E_cell3=-4.193 E_cell=-7.418 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.669 E_cell=-4.344 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-2.000 E_cell2=-1.566 E_cell3=-0.918 E_cell=-4.484 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.397 E_cell3=-1.542 E_cell=-5.190 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.420 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-0.500 E_cell2=-3.633 E_cell3=-0.265 E_cell=-4.397 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.750 E_cell2=-1.852 E_cell3=-0.819 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-2.000 E_cell2=-1.399 E_cell3=-1.965 E_cell=-5.363 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.916 E_cell=-4.484 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-0.750 E_cell2=-3.038 E_cell3=-0.504 E_cell=-4.292 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-1.824 E_cell3=-2.818 E_cell=-6.142 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.817 E_cell=-4.420 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.916 E_cell=-4.483 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.972 E_cell3=-0.629 E_cell=-4.851 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-0.250 E_cell2=-3.693 E_cell3=-0.364 E_cell=-4.307 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.750 E_cell2=-1.726 E_cell3=-1.775 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.000 E_cell2=-2.607 E_cell3=-1.515 E_cell=-5.122 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-2.000 E_cell2=-1.229 E_cell3=-3.012 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.720 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.750 E_cell2=-1.684 E_cell3=-1.866 E_cell=-5.300 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.916 E_cell=-4.483 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-2.180 E_cell3=-0.694 E_cell=-4.374 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.750 E_cell2=-1.457 E_cell3=-3.724 E_cell=-6.931 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-1.952 E_cell3=-1.799 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.601 E_cell=-4.276 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-2.180 E_cell3=-0.694 E_cell=-4.374 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.263 E_cell3=-1.598 E_cell=-5.112 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.595 E_cell=-4.311 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-1.500 E_cell2=-2.367 E_cell3=-0.736 E_cell=-4.603 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:51
+
+E_cell1=-2.000 E_cell2=-1.398 E_cell3=-1.964 E_cell=-5.362 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.817 E_cell=-4.420 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.000 E_cell2=-3.015 E_cell3=-0.536 E_cell=-4.551 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-0.750 E_cell2=-2.962 E_cell3=-0.476 E_cell=-4.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-1.765 E_cell3=-2.880 E_cell=-6.144 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-0.750 E_cell2=-2.962 E_cell3=-0.573 E_cell=-4.285 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.916 E_cell=-4.483 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.180 E_cell3=-0.694 E_cell=-4.374 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.917 E_cell=-4.484 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.353 E_cell3=-0.640 E_cell=-4.493 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-2.000 E_cell2=-1.229 E_cell3=-3.012 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.836 E_cell=-4.474 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.614 E_cell=-4.289 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.595 E_cell=-4.311 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-2.000 E_cell2=-1.214 E_cell3=-3.044 E_cell=-6.258 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.601 E_cell=-4.276 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.500 E_cell2=-2.180 E_cell3=-0.694 E_cell=-4.374 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.250 E_cell2=-2.153 E_cell3=-2.610 E_cell=-6.013 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.726 E_cell3=-1.775 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.557 E_cell3=-2.823 E_cell=-6.131 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.545 E_cell=-4.297 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.000 E_cell2=-2.793 E_cell3=-0.471 E_cell=-4.264 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.882 E_cell3=-1.739 E_cell=-5.372 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.817 E_cell=-4.420 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-0.500 E_cell2=-3.076 E_cell3=-2.218 E_cell=-5.794 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.595 E_cell=-4.311 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-2.000 E_cell2=-1.313 E_cell3=-2.820 E_cell=-6.133 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-0.500 E_cell2=-3.078 E_cell3=-2.118 E_cell=-5.695 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-1.000 E_cell2=-2.711 E_cell3=-0.619 E_cell=-4.329 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:52
+
+E_cell1=-2.000 E_cell2=-1.313 E_cell3=-2.821 E_cell=-6.134 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.917 E_cell=-4.484 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-1.952 E_cell3=-1.799 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.684 E_cell3=-1.866 E_cell=-5.300 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-1.825 E_cell3=-2.756 E_cell=-6.081 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.000 E_cell2=-2.932 E_cell3=-0.456 E_cell=-4.389 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-1.885 E_cell3=-2.634 E_cell=-6.019 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.412 E_cell3=-3.803 E_cell=-6.965 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.000 E_cell2=-2.606 E_cell3=-1.547 E_cell=-5.153 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.666 E_cell3=-1.898 E_cell=-5.314 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.000 E_cell2=-2.540 E_cell3=-2.380 E_cell=-5.920 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.599 E_cell3=-2.722 E_cell=-6.071 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-1.952 E_cell3=-1.799 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.595 E_cell=-4.311 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.000 E_cell2=-2.711 E_cell3=-0.564 E_cell=-4.275 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.000 E_cell2=-2.711 E_cell3=-0.510 E_cell=-4.221 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.357 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.420 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.250 E_cell2=-2.147 E_cell3=-2.997 E_cell=-6.394 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.557 E_cell3=-2.823 E_cell=-6.130 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.601 E_cell=-4.276 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.614 E_cell=-4.289 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-0.750 E_cell2=-3.079 E_cell3=-0.357 E_cell=-4.185 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-2.000 E_cell2=-1.229 E_cell3=-3.012 E_cell=-6.241 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-0.750 E_cell2=-3.980 E_cell3=-0.633 E_cell=-5.363 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-2.000 E_cell2=-1.398 E_cell3=-1.965 E_cell=-5.363 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.353 E_cell3=-0.640 E_cell=-4.493 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.180 E_cell3=-0.694 E_cell=-4.374 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.250 E_cell2=-2.298 E_cell3=-1.571 E_cell=-5.119 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-0.750 E_cell2=-3.120 E_cell3=-0.347 E_cell=-4.218 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.614 E_cell=-4.289 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.676 E_cell=-5.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:53
+
+E_cell1=-1.250 E_cell2=-2.646 E_cell3=-0.485 E_cell=-4.381 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.669 E_cell=-4.344 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-0.500 E_cell2=-3.485 E_cell3=-0.571 E_cell=-4.556 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.750 E_cell2=-1.684 E_cell3=-1.866 E_cell=-5.300 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-1.952 E_cell3=-1.799 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.012 E_cell3=-1.676 E_cell=-5.188 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.250 E_cell2=-2.213 E_cell3=-2.444 E_cell=-5.907 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.367 E_cell3=-0.736 E_cell=-4.603 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-0.750 E_cell2=-3.120 E_cell3=-0.347 E_cell=-4.218 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.250 E_cell2=-2.153 E_cell3=-2.542 E_cell=-5.945 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.000 E_cell2=-2.667 E_cell3=-1.485 E_cell=-5.152 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.750 E_cell2=-1.853 E_cell3=-0.818 E_cell=-4.421 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.250 E_cell2=-2.280 E_cell3=-1.600 E_cell=-5.130 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-1.825 E_cell3=-2.756 E_cell=-6.081 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-1.740 E_cell3=-3.612 E_cell=-6.853 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-0.750 E_cell2=-3.079 E_cell3=-0.357 E_cell=-4.185 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.750 E_cell2=-1.726 E_cell3=-1.775 E_cell=-5.251 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.367 E_cell3=-0.736 E_cell=-4.604 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.627 E_cell=-4.302 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.541 E_cell=-4.293 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.750 E_cell2=-1.684 E_cell3=-1.866 E_cell=-5.300 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.000 E_cell2=-2.676 E_cell3=-0.537 E_cell=-4.213 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.000 E_cell2=-2.479 E_cell3=-2.504 E_cell=-5.983 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-2.000 E_cell2=-0.961 E_cell3=-4.949 E_cell=-7.910 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.000 E_cell2=-2.592 E_cell3=-1.377 E_cell=-4.969 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.601 E_cell=-4.276 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-2.000 E_cell2=-1.046 E_cell3=-4.093 E_cell=-7.138 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-0.250 E_cell2=-3.513 E_cell3=-2.032 E_cell=-5.795 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.192 E_cell3=-1.566 E_cell=-5.259 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.500 E_cell2=-2.180 E_cell3=-0.694 E_cell=-4.374 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-1.250 E_cell2=-2.466 E_cell3=-0.595 E_cell=-4.311 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:54
+
+E_cell1=-0.750 E_cell2=-3.218 E_cell3=-0.292 E_cell=-4.260 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.669 E_cell=-4.344 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-2.000 E_cell2=-1.567 E_cell3=-0.917 E_cell=-4.483 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-2.000 E_cell2=-1.045 E_cell3=-4.092 E_cell=-7.137 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-2.000 E_cell2=-1.229 E_cell3=-3.013 E_cell=-6.242 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-1.250 E_cell2=-2.425 E_cell3=-0.669 E_cell=-4.344 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-1.000 E_cell2=-2.752 E_cell3=-0.535 E_cell=-4.287 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.78  run_time=0.0s  2016-11-13 21:48:55
+
+E_cell1=-1.500 E_cell2=-2.139 E_cell3=-0.719 E_cell=-4.358 Nstep=2  L=2  j=4.00  mc=0.72  md=0.25  v=0.79  run_time=0.0s  2016-11-13 21:48:55
+
